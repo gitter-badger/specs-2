@@ -5,7 +5,7 @@ specifications for Ethereum-like blockchains and related projects.
 
 We welcome and encourage Ethereum-compatible blockchain developers to
 contribute specifications for wider community to review. However, we
-don't accept consensus-layer specifications, use EIPs or ECIPs for
+don't accept consensus-layer specifications. Use EIPs or ECIPs for
 them.
 
 ## Goals
