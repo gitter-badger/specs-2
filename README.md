@@ -38,3 +38,5 @@ its maturity level:
   in this maturity level also gets a STD number in the format of
   `std-$number`. Specifications may continue to evolve or be replaced
   by newer specifications.
+
+The current editor is Wei Tang <hi@that.world>.
