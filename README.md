@@ -1,4 +1,4 @@
-# Specifications
+# Cross-Ethereum Specification Repository
 
 This repository is for draft and implemented non-consensus-layer
 specifications for Ethereum-like blockchains and related projects.
