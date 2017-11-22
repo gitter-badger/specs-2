@@ -9,11 +9,11 @@
   Created: 2017-11-22
 </pre>
 
-### Abstract
+## Abstract
 
 Jets are optimization marks. Using jets, users can place optmization marks in an EVM program. An EVM interpreter will then verify the optimization mark claim, and if the verification passes, execute a native code version of the program that is equivalent to the original program.
 
-### Specification
+## Specification
 
 The optimization mark is defined as two adjencent opcodes.
 
@@ -26,7 +26,7 @@ Readers can immediately follow that this optimization mark does not have side ef
 
 EVMs, on doing the initial `JUMPDEST` validity map execution round, can optionally search for the optimization mark as defined above. If an optimization mark is found, it then checks whether the `registry ID` is supported. Each `registry ID` has an associated code length. The EVM then verify that opcodes followed by the optimization mark, of code length, is a pre-defined one. If so, it can mark the beginning of that code region `A` (including the optimization mark) as "jet-able". When the program counter reads up to `A`, the EVM can choose to execute the jet-ed native code that results in the same state, and costs the same gas. However, if the program counter instead jumps to the middle of the code region, it should use the not-jet-ed unoptimized opcode.
 
-### Registry ID Assignments
+## Registry ID Assignments
 
 Registry ID of spec-2017-0001 can be assigned in a looser process but similar to how RFC works. EVM implementors can choose to implement any registry ID or not, but should avoid conflicting registry ID assignments. An assigment must also contain:
 
@@ -34,7 +34,7 @@ Registry ID of spec-2017-0001 can be assigned in a looser process but similar to
 * The opcode sequence of the optimizing block.
 * Sample implementation of the optimizing block.
 
-### Example
+## Example
 
 Usually for an opcode sequence to be replacable by native codes, it is required that it to be static:
 

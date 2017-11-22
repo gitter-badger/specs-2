@@ -9,15 +9,15 @@
   Created: 2017-11-22
 </pre>
 
-### Abstract
+## Abstract
 
 Recursive Length Prefix (see [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) Appendix B) is the data type used for all common Ethereum Classic structures including blocks, raw transactions, receipts and accounts. Defining a media type for Recursive Length Prefix (RLP) would allow a RESTful HTTP server to return raw RLP information directly. This is more efficient than the current JSON format for RPC calls.
 
-### Specification
+## Specification
 
 Define a new media type according to RFC6838 under `application/vnd.ecip.rlp` ([IANA media type assignment](https://www.iana.org/assignments/media-types/application/vnd.ecip.rlp)). This media type has no required or optional parameters. It uses binary encoding. The specification for RLP can be found at [Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf) Appendix B.
 
-### Example
+## Example
 
 *Note this section is only served as an example of how this media type might be used, and is not part of the specification.*
 
