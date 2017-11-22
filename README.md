@@ -40,3 +40,7 @@ its maturity level:
   by newer specifications.
 
 The current editor is Wei Tang <hi@that.world>.
+
+Technically this process also support non-standards track, but
+currently we assume all submitted specifications are on the standards
+track.
