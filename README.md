@@ -47,8 +47,8 @@ track.
 
 ## Specifications
 
-| Number                                              | Title                              | Author   | Maturity Level |
-|-----------------------------------------------------|------------------------------------|----------|----------------|
-| [2017-0001](specs/spec-2017-0001-evm-jets.md)       | Jets in Ethereum Virtual Machine   | Wei Tang | Proposed       |
-| [2017-0002](specs/spec-2017-0002-rlp-media-type.md) | Recursive Length Prefix Media Type | Wei Tang | Proposed       |
-| [2017-0003](specs/spec-2017-0003-evmjson.md)        | Ethereum Virtual Machine JSON-RPC  | Wei Tang | Proposed       |
+| Number                                              | Title                              | Author   | Maturity Level | Discussion                                     |
+|-----------------------------------------------------|------------------------------------|----------|----------------|------------------------------------------------|
+| [2017-0001](specs/spec-2017-0001-evm-jets.md)       | Jets in Ethereum Virtual Machine   | Wei Tang | Proposed       | [#1](https://github.com/ethoxy/specs/issues/1) |
+| [2017-0002](specs/spec-2017-0002-rlp-media-type.md) | Recursive Length Prefix Media Type | Wei Tang | Proposed       | [#2](https://github.com/ethoxy/specs/issues/2) |
+| [2017-0003](specs/spec-2017-0003-evmjson.md)        | Ethereum Virtual Machine JSON-RPC  | Wei Tang | Proposed       | [#3](https://github.com/ethoxy/specs/issues/3) |
