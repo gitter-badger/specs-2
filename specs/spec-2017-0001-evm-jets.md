@@ -4,7 +4,7 @@
   PCS: 2017-0001
   Title: Jets in Ethereum Virtual Machine
   Author: Wei Tang <hi@that.world>
-  Status: Draft
+  Status: Proposed
   Type: Standards Track
   Created: 2017-11-22
 </pre>
