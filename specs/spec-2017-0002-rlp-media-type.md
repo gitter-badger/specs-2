@@ -1,7 +1,7 @@
 # Recursive Length Prefix Media Type
 
 <pre>
-  PCS: 2017-0002
+  Number: spec-2017-0002
   Title: Recursive Length Prefix Media Type
   Author: Wei Tang <hi@that.world>
   Status: Proposed

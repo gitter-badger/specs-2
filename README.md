@@ -36,7 +36,7 @@ its maturity level:
   experiences has been obtained, the specification is moved to
   **Standard** maturity level. Besides its RFC number, specifications
   in this maturity level also gets a STD number in the format of
-  `std-$number`. Specifications may continue to evolve or be replaced
+  `std-$number-$feature`. Specifications may continue to evolve or be replaced
   by newer specifications.
 
 The current editor is `Wei Tang <hi@that.world>`.
@@ -47,8 +47,8 @@ track.
 
 ## Specifications
 
-| Number                                              | Title                              | Author   | Maturity Level | Discussion                                     |
-|-----------------------------------------------------|------------------------------------|----------|----------------|------------------------------------------------|
-| [2017-0001](specs/spec-2017-0001-evm-jets.md)       | Jets in Ethereum Virtual Machine   | Wei Tang | Proposed       | [#1](https://github.com/ethoxy/specs/issues/1) |
-| [2017-0002](specs/spec-2017-0002-rlp-media-type.md) | Recursive Length Prefix Media Type | Wei Tang | Proposed       | [#2](https://github.com/ethoxy/specs/issues/2) |
-| [2017-0003](specs/spec-2017-0003-evmjson.md)        | Ethereum Virtual Machine JSON-RPC  | Wei Tang | Proposed       | [#3](https://github.com/ethoxy/specs/issues/3) |
+| Number                                                   | Title                              | Author   | Maturity Level | Discussion                                     |
+|----------------------------------------------------------|------------------------------------|----------|----------------|------------------------------------------------|
+| [spec-2017-0001](specs/spec-2017-0001-evm-jets.md)       | Jets in Ethereum Virtual Machine   | Wei Tang | Proposed       | [#1](https://github.com/ethoxy/specs/issues/1) |
+| [spec-2017-0002](specs/spec-2017-0002-rlp-media-type.md) | Recursive Length Prefix Media Type | Wei Tang | Proposed       | [#2](https://github.com/ethoxy/specs/issues/2) |
+| [spec-2017-0003](specs/spec-2017-0003-evmjson.md)        | Ethereum Virtual Machine JSON-RPC  | Wei Tang | Proposed       | [#3](https://github.com/ethoxy/specs/issues/3) |

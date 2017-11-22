@@ -1,7 +1,7 @@
 # Ethereum Virtual Machine JSON-RPC
 
 <pre>
-  PCS: 2017-0003
+  Number: spec-2017-0003
   Title: Ethereum Virtual Machine JSON-RPC
   Author: Wei Tang <hi@that.world>
   Status: Proposed

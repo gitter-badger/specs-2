@@ -1,7 +1,7 @@
 # Jets in Ethereum Virtual Machine
 
 <pre>
-  PCS: 2017-0001
+  Number: spec-2017-0001
   Title: Jets in Ethereum Virtual Machine
   Author: Wei Tang <hi@that.world>
   Status: Proposed
