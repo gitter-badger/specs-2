@@ -33,9 +33,9 @@ its maturity level:
 * When at least one implementation is done for a particular
   specification, it is moved to **Draft** maturity level.
 * When significant implementations and successful operational
-  experiences has been obtained, the specification is moved to
+  experiences have been obtained, the specification is moved to
   **Standard** maturity level. Besides its RFC number, specifications
-  in this maturity level also gets a STD number in the format of
+  in this maturity level also get a STD number in the format of
   `std-$number-$feature`. Specifications may continue to evolve or be replaced
   by newer specifications.
 
