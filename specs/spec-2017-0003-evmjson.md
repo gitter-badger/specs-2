@@ -6,6 +6,7 @@
   Author: Wei Tang <hi@that.world>
   Status: Proposed
   Type: Standards Track
+  Discussion: https://github.com/ethoxy/specs/issues/3
   Created: 2017-11-22
 </pre>
 
