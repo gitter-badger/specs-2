@@ -36,7 +36,7 @@ its maturity level:
   experiences have been obtained, the specification is moved to
   **Standard** maturity level. Besides its RFC number, specifications
   in this maturity level also get a STD number in the format of
-  `std-$number-$feature`. Specifications may continue to evolve or be replaced
+  `ethoxy-$number-$feature`. Specifications may continue to evolve or be replaced
   by newer specifications.
 
 The current editor is `Wei Tang <hi@that.world>`.
