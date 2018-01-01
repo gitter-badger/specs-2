@@ -1,14 +1,12 @@
 # Recursive Length Prefix Media Type
 
-<pre>
-  Number: spec-2017-0002
-  Title: Recursive Length Prefix Media Type
-  Author: Wei Tang <hi@that.world>
-  Status: Proposed
-  Type: Standards Track
-  Discussion: https://github.com/ethoxy/specs/issues/2
-  Created: 2017-11-22
-</pre>
+    Number: spec-2017-0002
+    Title: Recursive Length Prefix Media Type
+    Author: Wei Tang <hi@that.world>
+    Status: Proposed
+    Type: Standards Track
+    Discussion: https://github.com/ethoxy/specs/issues/2
+    Created: 2017-11-22
 
 ## Abstract
 
